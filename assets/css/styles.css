@@ -1,0 +1,50 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #FFF;
+}
+
+.caja1 img {
+    border-style: double;
+}
+
+.caja2 {
+    padding: 0 200px;
+}
+
+.caja2 a {
+    color: yellow;
+    text-decoration: none;
+}
+
+.caja2 button {
+    color: #FFF;
+}
+
+#resultados {
+    padding: 0 200px;
+}
+
+#heroPic h3 {
+    font-weight: bolder;
+}
+
+#heroPic img {
+    width: 100%;
+    border: 1px solid #FFF;
+}
+
+#heroBio {
+    padding: 0px 25px;
+    text-align: justify;
+}
+
+.footer {
+    background-color: hsla(0, 0%, 0%, 0.2);
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.footer p {
+    margin: 0;
+}
